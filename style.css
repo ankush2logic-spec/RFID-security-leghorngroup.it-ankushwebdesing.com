@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#background{
+    background-color: black;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    display: inline-block;
+    padding-left: 18px;
+}
+
+.fa-google-drive{
+    background-color: yellow;
+    color: black;
+    font-size: 33px;
+    border: 1px;
+    border-radius: 17px;
+    padding: 4px;
+}
+
+.fa-cart-shopping{
+    font-size: 34px;
+}
+.fa-magnifying-glass{
+    font-size: 20px;
+
+}
+.fa-gear{
+    font-size: 20px;
+}
+.banner1{
+    width: 100%;
+    height: 500px;
+}
+ins{
+    color: red;
+}
+.fa-phone{
+    font-size: 24px;
+}
+
+footer ul li{
+    color: lightgrey;
+}
+footer p{
+    color: lightgrey;
+}
+.footericon{
+    width: 90px;
+    height: auto;
+}
